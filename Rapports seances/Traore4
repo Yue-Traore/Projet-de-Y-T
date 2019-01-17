@@ -1,0 +1,12 @@
+Aujourd'hui, on a fait réorganisé le piano, en dégageant les fils 
+Et en agrandissant l espace entre nos boutons poussoir. Cela est dns
+Le but de pouvoir mieux organiser la décoration de notre piano, pour lequel on a des idées. 
+On a ajouté en plus deux autres bouttons poussoir. Lorsqu on appuie sur le premier(vert) 
+Et que le code est bon, la porte s ouvre. Quand on apuie sur les deux en même temps, on enregistre 
+Un nouveau code. 
+On a eu des problèmes de code, donc on a fait un algorithme pour pouvoir l identifier.On à également mis des serial print un peu partout. 
+On a réussi à le réglé finalement mais d autre problème son intervenu au niveau du niveau sonore du buzzer. 
+
+
+On a également commencé à bricoler nos touches de piano même si cette première tentative n est pas 
+Ce que l on espérait ! 
