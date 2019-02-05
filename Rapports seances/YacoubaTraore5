@@ -1,0 +1,11 @@
+ccSéance du 04/02/2019
+
+Pendant les vacances , on a reussit a faire un piano avec lequel on pouvait enrefistrer un code et déverouiller le cadena mais qui n'émettait pas de son
+
+Piano fonctionnel:En début d'heure , on avait un piano qui n'émettait pas de son . Alors on a téléversé une ancienne version avec lequel le son marchait.
+Donc le problème venait uniquement du code. On a donc étudié le programme pour trouver l'erreur ( on avait un delay(1) qui ne laissant pas le temps au buzer
+de sonner )
+On a donc corigé cela et le piano marche parfaitement.
+
+Décoration : On a fait un plan des pièces dont on a besoin pour notre décoration.
+On a coupé toutes les pièces à la scie sur un carton.
